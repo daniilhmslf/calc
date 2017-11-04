@@ -1,0 +1,8 @@
+.frame {
+  margin: 60px auto 0;
+  height: 550px;
+  width: 400px;
+  background: #3d2336;
+  border-radius: 3px;
+  display: flex;
+}
